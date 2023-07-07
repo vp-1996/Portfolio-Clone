@@ -4,7 +4,7 @@ body{
 
 
 .bg1{
-background-image: url(images/hero-bg.jpg);
+background-image: url(Images/hero-bg.jpg);
 height: 100%;
 width: 100%;
 background-size: cover ;
@@ -857,7 +857,6 @@ a{
       /* transform: translateY(100px);
       display: none; */
       transform: translateY(2px);
-      z-index: ;
       color: white;
       /* padding-top: 14px; */
       visibility: hidden;
